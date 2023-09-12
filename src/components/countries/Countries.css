@@ -6,3 +6,7 @@
 .visited{
     background-color: aqua;
 }
+.flag-container img {
+    width:10%;
+    
+}
